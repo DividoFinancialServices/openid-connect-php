@@ -1,6 +1,6 @@
 # PHP OpenID Connect Basic Client
 
-(This package is a fork of [jumbojett/OpenID-Connect-PHP][2].)
+(This package is a fork of [rask/openid-connect-php][2] which is a fork of [jumbojett/OpenID-Connect-PHP][2].)
 
 A simple library that allows an application to authenticate a user
 through the basic OpenID Connect flow. This library hopes to encourage
